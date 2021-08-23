@@ -1,4 +1,4 @@
-# Quasar App (pokemex)
+# Quasar App (pokedex)
 
 A Quasar Framework app
 
